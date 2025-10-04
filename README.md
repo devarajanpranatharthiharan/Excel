@@ -1,2 +1,2 @@
 # Excel
-This is for excel projects management
+This is for excel projects management training
